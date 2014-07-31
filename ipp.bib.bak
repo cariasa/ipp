@@ -1,0 +1,21 @@
+% This file was created with JabRef 2.7b.
+% Encoding: UTF-8
+
+@BOOK{demobook,
+  title = {Democracia, elecciones, y ciudadanía en Honduras},
+  publisher = {Instituto Nacional Demócrata},
+  year = {2014},
+  editor = {Salvador Romero Ballivián},
+  author = {Varios},
+  owner = {arias},
+  timestamp = {2014.07.31}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
