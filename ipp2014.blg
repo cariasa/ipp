@@ -3,46 +3,49 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ipp2014.aux
 The style file: apalike.bst
 Database file #1: ./ipp.bib
+Warning--entry type for "melvid" isn't style-file defined
+--line 33 of file ./ipp.bib
+Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in demobook
-You've used 1 entry,
+You've used 3 entries,
             1935 wiz_defined-function locations,
-            477 strings with 3877 characters,
-and the built_in function-call counts, 297 in all, are:
-= -- 25
-> -- 7
-< -- 1
-+ -- 2
-- -- 2
-* -- 20
-:= -- 58
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 5
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 14
-empty$ -- 24
-format.name$ -- 3
-if$ -- 55
+            486 strings with 4125 characters,
+and the built_in function-call counts, 1141 in all, are:
+= -- 106
+> -- 42
+< -- 4
++ -- 14
+- -- 14
+* -- 87
+:= -- 198
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 20
+chr.to.int$ -- 3
+cite$ -- 5
+duplicate$ -- 49
+empty$ -- 80
+format.name$ -- 17
+if$ -- 228
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 7
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 9
+pop$ -- 24
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 22
 quote$ -- 0
-skip$ -- 11
+skip$ -- 40
 stack$ -- 0
-substring$ -- 12
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 64
+swap$ -- 14
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 1
-while$ -- 2
+type$ -- 14
+warning$ -- 2
+while$ -- 8
 width$ -- 0
-write$ -- 14
-(There was 1 warning)
+write$ -- 39
+(There were 3 warnings)

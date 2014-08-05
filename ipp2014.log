@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  31 JUL 2014 16:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  5 AUG 2014 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,12 +339,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2] [3] (./ipp2014.bbl) [4] (./ipp2014.aux) ) 
 Here is how much of TeX's memory you used:
- 1039 strings out of 494998
- 12936 string characters out of 3180116
- 70577 words of memory out of 3000000
- 4262 multiletter control sequences out of 15000+200000
+ 1041 strings out of 494998
+ 12955 string characters out of 3180116
+ 70640 words of memory out of 3000000
+ 4264 multiletter control sequences out of 15000+200000
  8540 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  25i,4n,32p,1269b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ipp2014.dvi (4 pages, 9404 bytes).
+Output written on ipp2014.dvi (4 pages, 10052 bytes).

@@ -11,7 +11,7 @@
 
 \affil[1]{Facultad de Ingenier\'{i}a, UNITEC, Tegucigalpa, Honduras}
 \affil[2]{Instituto de Investigaci\'{o}n de Pol\'{i}ticas P\'{u}blicas, UNITEC, Tegucigalpa, Honduras}
-\affil[3]{Icoms Technologies, }
+\affil[3]{Icoms Technologies S de RL, Tegucigalpa, Honduras}
 
 \begin{document}
 
@@ -43,6 +43,10 @@ Democracy is not an easy feat, especially in a developing country as Honduras, b
 These kinds of systems will help society get a better participation in the governance of a country, because they will make people be heard by their government and will increase general public awareness. In addition to these benefits, VotoSocial provides a path to a more transparent electoral process, so much that it has serve as an inspiration to other Crowdsourcing systems like http://contemosnosotros.org/ in the neighbor country of El Salvador. 
 
 Test \cite{demobook}
+
+Test \cite{gonza2014}
+
+Test \cite{transp}
 
 \section{Background}
 \subsection{Crowdsourcing}
