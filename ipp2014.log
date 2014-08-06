@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  5 AUG 2014 14:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  6 AUG 2014 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,14 +337,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
 [1
 
-] [2] [3] (./ipp2014.bbl) [4] (./ipp2014.aux) ) 
+] [2]
+Overfull \hbox (14.3317pt too wide) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/10 Crowdsourcing en-lists many users, helps solve a prob-lem, pr
+ob-lem is de-fined by sys-tem own-ers [[]] 
+ []
+
+[3] (./ipp2014.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/10 Gardezi, S. (2014).  The pol-i-tics of so-cial me-dia in sout
+h east asia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+[]\OT1/cmr/m/n/10 Map, W. (2014).  How po-lit-i-cal bod-ies use so-cial me-dia 
+in africa.
+ []
+
+) [4] (./ipp2014.aux) ) 
 Here is how much of TeX's memory you used:
- 1041 strings out of 494998
- 12955 string characters out of 3180116
- 70640 words of memory out of 3000000
- 4264 multiletter control sequences out of 15000+200000
+ 1043 strings out of 494998
+ 12975 string characters out of 3180116
+ 70649 words of memory out of 3000000
+ 4266 multiletter control sequences out of 15000+200000
  8540 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  25i,4n,32p,1269b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ipp2014.dvi (4 pages, 10052 bytes).
+Output written on ipp2014.dvi (4 pages, 12444 bytes).
