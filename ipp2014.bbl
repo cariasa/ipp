@@ -1,5 +1,16 @@
 \begin{thebibliography}{}
 
+\bibitem[csj, 2012]{csj2012}
+ (2012).
+\newblock Dismissed! (in spanish).
+\newblock \textit{La Tribuna}, 11 December 2012. Available:
+  http://www.latribuna.hn/2012/12/11/destituidos/.
+
+\bibitem[{Corporación Latinobarómetro}, 2014]{latinbar}
+{Corporación Latinobarómetro} (2014).
+\newblock Online analysis (in spanish).
+\newblock http://www.latinobarometro.org/latOnline.jsp.
+
 \bibitem[Doan et~al., 2011]{doan2011}
 Doan, A., Ramakrishnan, R., and Halevy, A.~Y. (2011).
 \newblock Crowdsourcing systems on the world-wide web.
@@ -22,10 +33,23 @@ Gardezi, S. (2014).
 \newblock
   http://www.idgconnect.com/abstract/8467/the-politics-social-media-south-east-asia.
 
+\bibitem[{Gonzalez Ocantos} et~al., 2014]{gonza2014}
+{Gonzalez Ocantos}, E., {Kiewet de Jonge}, C., Melendez, C., Osorio, J., and
+  Nickerson, D. (2014).
+\newblock {\em Democracy, elections and citizenship in Honduras (In Spanish)},
+  chapter Vote buying in Central America a preliminary study (In Spanish),
+  pages 155--170.
+\newblock National Democratic Institute.
+
 \bibitem[{Honduras Central Bank}, 2014]{bchrep}
 {Honduras Central Bank} (2014).
 \newblock {\em Honduras in Figures (In Spanish)}.
 \newblock Honduras Central Bank.
+
+\bibitem[Macpherson, 2003]{mac2003}
+Macpherson, C. (2003).
+\newblock {\em La democracia liberal y su {\'e}poca}.
+\newblock El Libro De Bolsillo. Alianza Editorial.
 
 \bibitem[Map, 2014]{map2014}
 Map, W. (2014).
@@ -38,6 +62,11 @@ Milan, S. and Hintz, A. (2013).
 \newblock Networked collective action and the institutionalized policy debate:
   Bringing cyberactivism to the policy arena?
 \newblock {\em Policy \& Internet}, 5(1):7--26.
+
+\bibitem[Osborn et~al., 2010]{osborn2010}
+Osborn, T., McClurg, S.~D., and Knoll, B. (2010).
+\newblock Voter mobilization and the obama victory.
+\newblock {\em American Politics Research}, 38(2):211--232.
 
 \bibitem[{Romero Ballivián}, 2014]{romero2014}
 {Romero Ballivián}, S. (2014).

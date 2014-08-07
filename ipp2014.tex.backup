@@ -37,21 +37,15 @@ During the process there was a perception that the elections were fraudulent, sp
 
 Considering all these facts, some people started to organize procedures to check the official records, and to find a way to report this to the general public. Some used Facebook as their propagation method, and Google Docs as a way to register the potential anomalies found in the counting process of the official polling records. Some other people, among the authors of this abstract, decided to take this a step further, and developed the \textit{VotoSocial} platform, to allow people to verify the government counting of the official polling records.
 
-VotoSocial team grabbed all the digitalized polling records. The process of retrieving these records was done in batch, downloading the records as these were being made available by the TSE. VotoSocial then allowed the system's users to see the scanned record, and to register the values, digitalizing this way the results of each of 15,637 polling tables, this represents 97\% of all the polling stations in the country, the remaining 3\% was not verified as it was never made public by the TSE. Users were also in charge of the validation of this process, so every time a transcription user digitized a record, three different users had to validate that this transcription was correct. There were 6,232 unique visits to the site, 1,673 people registered in VotoSocial, 710 users were actively transcribing records, and 879 people participated reviewing the transcriptions. The whole process took six days, however it was done altogether in less than 48 hours. In the first day programming and testing was done and 1\% of the records were processed, during the following two days 88\% of the records were processed, hours after these were available for the VotoSocial users. The rest of the records were processed during few hours in the last three days.
+Democracy is not an easy feat, especially in a developing country as Honduras, but Crowdsourcing systems like \textit{VotoSocial}, can help a minority of a population have a deep impact in the society, allowing some of the more educated people help discover anomalies in the government proceedings, making this information public and explaining how this affects the general public. Furthermore, this initiative allowed users that would just complain about the government in Facebook, to use their energy in a positive constructive way, and to involve them in the political life of their country, something that they would not have been able to do without \textit{VotoSocial}.
 
-VotoSocial did not find significant discrepancies between the official results of the TSE and its own results, thus showing that at least in the digitalization process in the TSE there were no “foul play”. Notwithstanding this, further analysis of the data showed a correlation between the percentage of voter turnout in the polling tables and the percentage of the voters of the winning candidate, where there should be none, this suggests that during the elections the winning party had an active encouragement to get more sympathizing people to the polls.
+These kinds of systems will help society get a better participation in the governance of a country, because they will make people be heard by their government and will increase general public awareness. In addition to these benefits, \textit{VotoSocial} provides a path to a more transparent electoral process, so much that it has serve as an inspiration to other Crowdsourcing systems like http://contemosnosotros.org/ in the neighbor country of El Salvador. 
 
-Democracy is not an easy feat, especially in a developing country as Honduras, but Crowdsourcing systems like VotoSocial, can help a minority of a population have a deep impact in the society, allowing some of the more educated people help discover anomalies in the government proceedings, making this information public and explaining how this affects the general public. Furthermore, this initiative allowed users that would just complain about the government in Facebook, to use their energy in a positive constructive way, and to involve them in the political life of their country, something that they would not have been able to do without VotoSocial.
-
-These kinds of systems will help society get a better participation in the governance of a country, because they will make people be heard by their government and will increase general public awareness. In addition to these benefits, VotoSocial provides a path to a more transparent electoral process, so much that it has serve as an inspiration to other Crowdsourcing systems like http://contemosnosotros.org/ in the neighbor country of El Salvador. 
-
-
-
-
-
+Following this introduction a brief background description of crowdsourcing and the political history of Honduras is presented, after this a panoramic view of the elections in 2013 is shown, followed by a statistical analysis that the \textit{VotoSocial} platform allowed to do. Finally future and potential work is describe and conclusions are given.
 
 
 \section{Background}
+
 \subsection{Crowdsourcing}
 
 Cyberactivism is reshaping the way that policy has traditionally been conducted, whose perspectives are included and how awareness is risen among the people \citep{milan2013}, cyberactivism activitites include among others crowdsourcing. Crowdsourcing is a process where an online community collaborates to reach a goal, where each participant contributes with a small portion, and these contributions are later integrated to provide a solution to a bigger problem. In a manner, it builds a big solving machine using humans as computational components, thus enlisting people to solve a variety of problems \citep{doan2011}.
@@ -73,7 +67,56 @@ By involving social media, many of the crowdsourcing challenges are faced, and i
 
 \subsection{Political Situation in Honduras}
 
+From 1948 to 1980 coup d'\'{e}tat, fixed elections and fraud where interleaved until in the early 1980's
+
+--------------------------
+
+Polling tables credentials trafic helps bigger political parties gain control. The polling table remains the weak link in the electoral process as this is the least supervised spot \citep{romero2014}
+
+The aparition of new political parties, that in the end did not even reach the minimum amount of votes, might have helped in the polling tables to give bigger parties part of the control.
+
+In May 21st the authors requested oficial data to the Public Information Access Institute \url{http://www.iaip.gob.hn/} however after three months there was no response on their behalf.
+
+The events around the 2009 political crisis confirmed the fragile capacity of public action of Honduran society \citep{romero2014}
+
+Honduras' census lacks an efficient mechanism to register dead people, in the last elections there were 300,000 dead people registered to vote \citep{romero2014}
+
+Honduras with a score of 26, with only 37 other countries considered to be more corrupt than Honduras \citep{transp}
+
+Survey results show that even though there is a periodicity to the democratic process, the public still does not trust the general process and transparency of the elections \citep{romero2014}
+
+48.3\% believe that democracy is worst now, only 5\% is satisfied with the current democracy \citep{latinbar}
+
+Organized political parties that possess resources have a greater capacity to turn on the vote buying machinery. To achieve it, it requires knowledge of the local population, budget, trust networks, judicial protection \citep{gonza2014}.
+
+Judicial protection was achieved by current president, at the time that he was president of Congress by dismissing four Supreme Court Justices, specifically the ones in charge of declaring violations to the National Constitution \citep{csj2012}.
+
+According to \cite{gonza2014} in Honduras in 2009 22\% of the voters participated in one form or another of vote buying.
+
+--------------------------
+
+Honduras has lost 25\% of registered voters participation since the restart of democracy in 1982 \citep{romero2014}
+
+Higher turnout usually means a greate demand of the public for results \citep{mac2003}, this is not true for Honduras where abstention and comfort are not aligned, since even when there is high turnout people do not consistently demand results from the government \citep{romero2014}.
+
+The correlation between voter turnout and voter choice is the product of two factors: voter movilization and voter defection \citep{osborn2010}
+
+Political parties actions such as phone calls and email can encourage people to vote, having a direct effect on the turnout, this may benefit a political party depending on the specific characteristics of the country \citep{osborn2010}
+
+Targeted turnout
+
+To avoid abstentionism transportation to the polling table is a common practice \citep{romero2014}
+
+
+
+
 \section{Government Elections 2013: The Birth of VotoSocial}
+
+VotoSocial team grabbed all the digitalized polling records. The process of retrieving these records was done in batch, downloading the records as these were being made available by the TSE. VotoSocial then allowed the system's users to see the scanned record, and to register the values, digitalizing this way the results of each of 15,637 polling tables, this represents 97\% of all the polling stations in the country, the remaining 3\% was not verified as it was never made public by the TSE. Users were also in charge of the validation of this process, so every time a transcription user digitized a record, three different users had to validate that this transcription was correct. There were 6,232 unique visits to the site, 1,673 people registered in VotoSocial, 710 users were actively transcribing records, and 879 people participated reviewing the transcriptions. The whole process took six days, however it was done altogether in less than 48 hours. In the first day programming and testing was done and 1\% of the records were processed, during the following two days 88\% of the records were processed, hours after these were available for the VotoSocial users. The rest of the records were processed during few hours in the last three days.
+
+VotoSocial did not find significant discrepancies between the official results of the TSE and its own results, thus showing that at least in the digitalization process in the TSE there were no “foul play”. Notwithstanding this, further analysis of the data showed a correlation between the percentage of voter turnout in the polling tables and the percentage of the voters of the winning candidate, where there should be none, this suggests that during the elections the winning party had an active encouragement to get more sympathizing people to the polls.
+
+
 
 \section{Further Analysis}
 
