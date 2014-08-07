@@ -189,6 +189,16 @@
   url = {http://www.pnas.org/content/early/2012/09/20/1210722109.abstract}
 }
 
+@BOOK{mac2003,
+  title = {La democracia liberal y su {\'e}poca},
+  publisher = {Alianza Editorial},
+  year = {2003},
+  author = {Macpherson, C.B.},
+  series = {El Libro De Bolsillo},
+  isbn = {9788420655598},
+  url = {http://books.google.hn/books?id=3nNfZbthSn8C}
+}
+
 @MISC{map2014,
   author = {William Map},
   title = {How Political Bodies Use Social Media in Africa},
@@ -288,6 +298,16 @@
   year = {2014},
   owner = {arias},
   timestamp = {2014.08.05}
+}
+
+@TECHREPORT{mdg2006,
+  author = {{United Nations}},
+  title = {Development Goals Report},
+  institution = {United Nations},
+  year = {2006},
+  owner = {arias},
+  timestamp = {2014.01.11},
+  url = {https://www.un.org/zh/millenniumgoals/pdf/MDGReport2006.pdf}
 }
 
 @BOOK{demobook,
