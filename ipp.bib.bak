@@ -289,6 +289,26 @@
   timestamp = {2014.07.31}
 }
 
+@MISC{wbdata,
+  author = {{World Bank}},
+  title = {World Bank Honduras Data},
+  howpublished = {http://data.worldbank.org/country/honduras},
+  month = {August},
+  year = {2014},
+  owner = {arias},
+  timestamp = {2014.08.06}
+}
+
+@MISC{webpenet,
+  author = {{World Bank}},
+  title = {Internet Users (per 100 people)},
+  howpublished = {http://data.worldbank.org/indicator/IT.NET.USER.P2},
+  month = {August},
+  year = {2014},
+  owner = {arias},
+  timestamp = {2014.08.06}
+}
+
 @ARTICLE{yin2012,
   author = {Jie Yin and Andrew Lampert and Mark Cameron and Bella Robinson and
 	Robert Power},
