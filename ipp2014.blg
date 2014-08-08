@@ -10,45 +10,45 @@ Warning--to sort, need author or key in csj2012
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
-You've used 18 entries,
+You've used 19 entries,
             1935 wiz_defined-function locations,
-            567 strings with 6185 characters,
-and the built_in function-call counts, 5794 in all, are:
-= -- 571
-> -- 193
-< -- 15
-+ -- 64
-- -- 62
-* -- 454
-:= -- 1040
-add.period$ -- 55
-call.type$ -- 18
-change.case$ -- 118
-chr.to.int$ -- 18
-cite$ -- 25
-duplicate$ -- 235
-empty$ -- 409
-format.name$ -- 80
-if$ -- 1126
+            575 strings with 6329 characters,
+and the built_in function-call counts, 6157 in all, are:
+= -- 609
+> -- 200
+< -- 16
++ -- 66
+- -- 64
+* -- 485
+:= -- 1102
+add.period$ -- 58
+call.type$ -- 19
+change.case$ -- 124
+chr.to.int$ -- 19
+cite$ -- 26
+duplicate$ -- 249
+empty$ -- 439
+format.name$ -- 83
+if$ -- 1197
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 13
-newline$ -- 93
-num.names$ -- 48
-pop$ -- 96
+missing$ -- 14
+newline$ -- 98
+num.names$ -- 51
+pop$ -- 99
 preamble$ -- 1
-purify$ -- 121
+purify$ -- 127
 quote$ -- 0
-skip$ -- 184
+skip$ -- 195
 stack$ -- 0
-substring$ -- 349
-swap$ -- 28
+substring$ -- 386
+swap$ -- 29
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 100
+type$ -- 106
 warning$ -- 5
-while$ -- 43
+while$ -- 47
 width$ -- 0
-write$ -- 225
+write$ -- 238
 (There were 6 warnings)
