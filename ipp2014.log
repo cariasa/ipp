@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  8 AUG 2014 16:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.5.2)  8 AUG 2014 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,25 +484,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
  [1
 
-] [2] [3] [4]
-Overfull \hbox (31.21938pt too wide) in paragraph at lines 113--114
+] [2] [3] [4] [5]
+Overfull \hbox (31.21938pt too wide) in paragraph at lines 103--104
 []\OT1/cmr/m/n/10 In May 21st the au-thors re-quested ofi-cial data to the Pub-
 lic In-for-ma-tion Ac-cess In-sti-tute [][][][]
  []
 
-
-Overfull \hbox (58.85966pt too wide) in paragraph at lines 123--124
-[]\OT1/cmr/m/n/10 48.3% be-lieve that democ-racy is worst now, only 5% is sat-i
-s-fied with the cur-rent democ-racy ([],
- []
-
-
-Overfull \hbox (18.05403pt too wide) in paragraph at lines 133--134
-[]\OT1/cmr/m/n/10 Honduras has lost 25% of reg-is-tered vot-ers par-tic-i-pa-ti
-on since the restart of democ-racy in 1982 ([],
- []
-
-[5] [6] (./ipp2014.bbl
+[6] (./ipp2014.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 9--13
 []\OT1/cmr/m/n/10 (2012).  Dis-missed! (in span-ish).  \OT1/cmr/m/it/10 La Tri-
 buna\OT1/cmr/m/n/10 , 11 De-cem-ber 2012. Avail-able:
@@ -527,29 +515,35 @@ h east asia.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--69
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+[]\OT1/cmr/m/n/10 Kirkconnell, J. (2013).  Cor-rup-tion in elec-tions 2013, cre
+-den-tials sell-ing (in span-ish).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
 []\OT1/cmr/m/n/10 Map, W. (2014).  How po-lit-i-cal bod-ies use so-cial me-dia 
 in africa.
  []
 
 [7])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
  [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (./ipp2014.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 169.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `ipp2014.out' has not changed.
 (rerunfilecheck)             Checksum: 74156EE7F0713DF73532559198B10E78;471.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 5286 strings out of 494998
- 76448 string characters out of 3180116
- 167033 words of memory out of 3000000
- 8462 multiletter control sequences out of 15000+200000
+ 5289 strings out of 494998
+ 76487 string characters out of 3180116
+ 167064 words of memory out of 3000000
+ 8465 multiletter control sequences out of 15000+200000
  8708 words of font info for 31 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 29i,4n,32p,1898b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,32p,1899b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ipp2014.dvi (8 pages, 56428 bytes).
+Output written on ipp2014.dvi (8 pages, 59668 bytes).

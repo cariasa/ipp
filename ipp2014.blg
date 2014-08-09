@@ -5,50 +5,52 @@ The style file: apalike.bst
 Database file #1: ./ipp.bib
 Warning--entry type for "melvid" isn't style-file defined
 --line 43 of file ./ipp.bib
+Warning--entry type for "vidap" isn't style-file defined
+--line 124 of file ./ipp.bib
 Warning--to sort, need author or key in bono10k
 Warning--to sort, need author or key in csj2012
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
-You've used 19 entries,
+You've used 20 entries,
             1935 wiz_defined-function locations,
-            575 strings with 6329 characters,
-and the built_in function-call counts, 6157 in all, are:
-= -- 609
-> -- 200
-< -- 16
-+ -- 66
-- -- 64
-* -- 485
-:= -- 1102
-add.period$ -- 58
-call.type$ -- 19
-change.case$ -- 124
-chr.to.int$ -- 19
-cite$ -- 26
-duplicate$ -- 249
-empty$ -- 439
-format.name$ -- 83
-if$ -- 1197
+            579 strings with 6454 characters,
+and the built_in function-call counts, 6402 in all, are:
+= -- 635
+> -- 207
+< -- 17
++ -- 68
+- -- 66
+* -- 500
+:= -- 1151
+add.period$ -- 61
+call.type$ -- 20
+change.case$ -- 130
+chr.to.int$ -- 20
+cite$ -- 27
+duplicate$ -- 259
+empty$ -- 454
+format.name$ -- 86
+if$ -- 1242
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 14
-newline$ -- 98
-num.names$ -- 51
-pop$ -- 99
+newline$ -- 103
+num.names$ -- 54
+pop$ -- 102
 preamble$ -- 1
-purify$ -- 127
+purify$ -- 133
 quote$ -- 0
-skip$ -- 195
+skip$ -- 204
 stack$ -- 0
-substring$ -- 386
+substring$ -- 398
 swap$ -- 29
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 106
+type$ -- 112
 warning$ -- 5
-while$ -- 47
+while$ -- 49
 width$ -- 0
-write$ -- 238
-(There were 6 warnings)
+write$ -- 250
+(There were 7 warnings)
