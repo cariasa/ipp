@@ -121,6 +121,18 @@
   url = {http://www.bch.hn/download/honduras_en_cifras/hencifras2011_2013.pdf}
 }
 
+@ELECTRONIC{vidap,
+  author = {Joe Kirkconnell},
+  month = {November},
+  year = {2013},
+  title = {Corruption in Elections 2013, Credentials Selling (In Spanish)},
+  language = {Spanish},
+  howpublished = {https://www.youtube.com/watch?v=VT7423onk7k},
+  url = {https://www.youtube.com/watch?v=VT7423onk7k},
+  owner = {arias},
+  timestamp = {2014.08.08}
+}
+
 @ARTICLE{kit2000,
   author = {Kitschelt, Herbert},
   title = {{Linkages between Citizens and Politicians in Democratic Polities}},
@@ -290,6 +302,16 @@
   url = {http://www.transparency.org/}
 }
 
+@MISC{csj2012,
+  author = {La Tribuna},
+  title = {Dismissed! (In Spanish)},
+  howpublished = {\textit{La Tribuna}, 11 December 2012. Available: http://www.latribuna.hn/2012/12/11/destituidos/},
+  month = {December},
+  year = {2012},
+  owner = {arias},
+  timestamp = {2014.08.06}
+}
+
 @MISC{unodc,
   author = {{United Nations Office on Drugs and Crime}},
   title = {UNODC: Global Study on Homicide},
@@ -353,16 +375,6 @@
   doi = {http://doi.ieeecomputersociety.org/10.1109/MIS.2012.6},
   issn = {1541-1672},
   publisher = {IEEE Computer Society}
-}
-
-@MISC{csj2012,
-  title = {Dismissed! (In Spanish)},
-  howpublished = {\textit{La Tribuna}, 11 December 2012. Available: http://www.latribuna.hn/2012/12/11/destituidos/
-	},
-  month = {December},
-  year = {2012},
-  owner = {arias},
-  timestamp = {2014.08.06}
 }
 
 @MISC{bono10k,

@@ -8,49 +8,48 @@ Warning--entry type for "melvid" isn't style-file defined
 Warning--entry type for "vidap" isn't style-file defined
 --line 124 of file ./ipp.bib
 Warning--to sort, need author or key in bono10k
-Warning--to sort, need author or key in csj2012
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
-You've used 20 entries,
+You've used 21 entries,
             1935 wiz_defined-function locations,
-            579 strings with 6454 characters,
-and the built_in function-call counts, 6402 in all, are:
-= -- 635
-> -- 207
-< -- 17
-+ -- 68
-- -- 66
-* -- 500
-:= -- 1151
-add.period$ -- 61
-call.type$ -- 20
-change.case$ -- 130
-chr.to.int$ -- 20
-cite$ -- 27
-duplicate$ -- 259
-empty$ -- 454
-format.name$ -- 86
-if$ -- 1242
+            584 strings with 6708 characters,
+and the built_in function-call counts, 6792 in all, are:
+= -- 672
+> -- 232
+< -- 18
++ -- 76
+- -- 74
+* -- 531
+:= -- 1233
+add.period$ -- 64
+call.type$ -- 21
+change.case$ -- 139
+chr.to.int$ -- 21
+cite$ -- 26
+duplicate$ -- 272
+empty$ -- 472
+format.name$ -- 96
+if$ -- 1312
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 103
-num.names$ -- 54
-pop$ -- 102
+missing$ -- 15
+newline$ -- 108
+num.names$ -- 60
+pop$ -- 107
 preamble$ -- 1
-purify$ -- 133
+purify$ -- 142
 quote$ -- 0
-skip$ -- 204
+skip$ -- 217
 stack$ -- 0
-substring$ -- 398
-swap$ -- 29
+substring$ -- 409
+swap$ -- 30
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 112
-warning$ -- 5
-while$ -- 49
+type$ -- 118
+warning$ -- 4
+while$ -- 53
 width$ -- 0
-write$ -- 250
-(There were 7 warnings)
+write$ -- 264
+(There were 6 warnings)

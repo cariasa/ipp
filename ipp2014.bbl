@@ -5,12 +5,6 @@
 \newblock Presidential program of health, education and nutrition bono 10,000.
 \newblock La Gaceta Oficial Journal of Honduras Government.
 
-\bibitem[csj, 2012]{csj2012}
- (2012).
-\newblock Dismissed! (in spanish).
-\newblock \textit{La Tribuna}, 11 December 2012. Available:
-  http://www.latribuna.hn/2012/12/11/destituidos/.
-
 \bibitem[{Corporación Latinobarómetro}, 2014]{latinbar}
 {Corporación Latinobarómetro} (2014).
 \newblock Online analysis (in spanish).
@@ -46,6 +40,12 @@ Gardezi, S. (2014).
   pages 155--170.
 \newblock National Democratic Institute.
 
+\bibitem[Haaf et~al., 2013]{haaf2013}
+Haaf, S., Wiegand, F., and Geyken, A. (2013).
+\newblock Measuring the correctness of double-keying: Error classification and
+  quality control in a large corpus of tei-annotated historical text.
+\newblock {\em Journal of the Text Encoding Initiative [Online]}, 4(4).
+
 \bibitem[{Honduras Central Bank}, 2014]{bchrep}
 {Honduras Central Bank} (2014).
 \newblock {\em Honduras in Figures (In Spanish)}.
@@ -60,6 +60,12 @@ Kirkconnell, J. (2013).
 Kitschelt, H. (2000).
 \newblock {Linkages between Citizens and Politicians in Democratic Polities}.
 \newblock {\em Comparative Political Studies}, 33(6-7):845--879.
+
+\bibitem[{La Tribuna}, 2012]{csj2012}
+{La Tribuna} (2012).
+\newblock Dismissed! (in spanish).
+\newblock \textit{La Tribuna}, 11 December 2012. Available:
+  http://www.latribuna.hn/2012/12/11/destituidos/.
 
 \bibitem[Macpherson, 2003]{mac2003}
 Macpherson, C. (2003).
