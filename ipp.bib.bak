@@ -201,6 +201,16 @@
   url = {http://www.pnas.org/content/early/2012/09/20/1210722109.abstract}
 }
 
+@MISC{csj2012,
+  author = {{La Tribuna}},
+  title = {Dismissed! (In Spanish)},
+  howpublished = {\textit{La Tribuna}, 11 December 2012. Available: http://www.latribuna.hn/2012/12/11/destituidos/},
+  month = {December},
+  year = {2012},
+  owner = {arias},
+  timestamp = {2014.08.06}
+}
+
 @BOOK{mac2003,
   title = {Liberal democracy and its time (In Spanish)},
   publisher = {Alianza Editorial},
@@ -300,16 +310,6 @@
   owner = {arias},
   timestamp = {2014.08.05},
   url = {http://www.transparency.org/}
-}
-
-@MISC{csj2012,
-  author = {La Tribuna},
-  title = {Dismissed! (In Spanish)},
-  howpublished = {\textit{La Tribuna}, 11 December 2012. Available: http://www.latribuna.hn/2012/12/11/destituidos/},
-  month = {December},
-  year = {2012},
-  owner = {arias},
-  timestamp = {2014.08.06}
 }
 
 @MISC{unodc,
