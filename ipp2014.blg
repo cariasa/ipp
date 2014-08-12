@@ -4,52 +4,51 @@ The top-level auxiliary file: ipp2014.aux
 The style file: apalike.bst
 Database file #1: ./ipp.bib
 Warning--entry type for "melvid" isn't style-file defined
---line 43 of file ./ipp.bib
+--line 53 of file ./ipp.bib
 Warning--entry type for "vidap" isn't style-file defined
---line 124 of file ./ipp.bib
-Warning--to sort, need author or key in bono10k
+--line 134 of file ./ipp.bib
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
 You've used 21 entries,
             1935 wiz_defined-function locations,
-            584 strings with 6708 characters,
-and the built_in function-call counts, 6792 in all, are:
-= -- 672
-> -- 232
-< -- 18
-+ -- 76
-- -- 74
+            585 strings with 6721 characters,
+and the built_in function-call counts, 6837 in all, are:
+= -- 677
+> -- 239
+< -- 19
++ -- 78
+- -- 76
 * -- 531
-:= -- 1233
+:= -- 1250
 add.period$ -- 64
 call.type$ -- 21
-change.case$ -- 139
+change.case$ -- 140
 chr.to.int$ -- 21
-cite$ -- 26
+cite$ -- 24
 duplicate$ -- 272
-empty$ -- 472
-format.name$ -- 96
-if$ -- 1312
+empty$ -- 469
+format.name$ -- 99
+if$ -- 1318
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 15
 newline$ -- 108
-num.names$ -- 60
-pop$ -- 107
+num.names$ -- 63
+pop$ -- 106
 preamble$ -- 1
-purify$ -- 142
+purify$ -- 143
 quote$ -- 0
-skip$ -- 217
+skip$ -- 219
 stack$ -- 0
-substring$ -- 409
+substring$ -- 408
 swap$ -- 30
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 118
-warning$ -- 4
-while$ -- 53
+warning$ -- 3
+while$ -- 55
 width$ -- 0
-write$ -- 264
-(There were 6 warnings)
+write$ -- 265
+(There were 5 warnings)
