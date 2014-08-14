@@ -24,7 +24,7 @@
 \maketitle
 
 \begin{abstract}
-
+For a country to become fully democratic the majority of the population needs to be involved in the politics of the country. Involvement requires people to be aware of what is happening, and to be able to participate in the political processes of the country. Crowdsourcing systems penetrate the social media, and by doing so allow the general population to participate 
 \end{abstract}
 
 \section{Introduction}
@@ -115,7 +115,7 @@ To be able to compare with final official results, in May 21st the authors reque
 
 Although the official data was not released through the official channels, thanks to the VotoSocial platform an independent count of the votes using the official polling records was achieved. This count allowed to do additional quantitative statistical analysis to further the qualitative findings of \cite{gonza2014}.
 
-An initial statistical analysis using the methods proposed by \cite{klimek2012} showed that there is evidence of what they called incremental fraud, but there is no evidence of extreme fraud. \cite{klimek2012} consider incremental fraud to be when voting boxes have valid votes and ballots from the winning party, combining real and legal votes with votes filled on purpose to help the winning party, or by taking away votes from the other parties. On the other had there is extreme fraud where some voting stations or districts show a 100\% turnout with 100\% count for the winning party. In Figure \ref{fig:fingerprint} can be seen a smearing to the upper right corner, an election result fingerprint associated with incremental fraud. The ideal fingerprint would have a concentration in the middle of the plane, without a correlation that leads the smearing in any direction. It is worthy to note that when extreme fraud is detected, there are clear clusters of points near the upper right corner, a behaviour that is not seen in the case of Honduras 2013 government elections.
+An initial statistical analysis using the methods proposed by \cite{klimek2012} showed that there is evidence of what they called incremental fraud, but there is no evidence of extreme fraud. \cite{klimek2012} consider incremental fraud to be when voting boxes have valid votes and ballots from the winning party, combining real and legal votes with votes filled on purpose to help the winning party, or by taking away votes from the other parties. On the other hand there is extreme fraud where some voting stations or districts show a 100\% turnout with 100\% count for the winning party. In Figure \ref{fig:fingerprint} can be seen a smearing to the upper right corner, an election result fingerprint associated with incremental fraud. The ideal fingerprint would have a concentration in the middle of the plane, without a correlation that leads the smearing in any direction. It is worthy to note that when extreme fraud is detected, there are clear clusters of points near the upper right corner, a behaviour that is not seen in the case of Honduras 2013 government elections.
 
 \begin{figure}[h!]
     \centering
@@ -128,22 +128,13 @@ An initial statistical analysis using the methods proposed by \cite{klimek2012} 
 
 \cite{doan2011} presents three major directions for crowdsourcing systems: more generic platforms, more applications and structure and more users and contributions. This proposal could be met by VotoSocial future work by: making the platform readily available for other countries election process, creating of spin-off systems for government auditing, and by increasing the internet penetration in developing countries to reach a higher number of people from the general public.
 
-A high investment in information technology infraestructure and in education would creat high penetration of social media \citep{saadia2014} that in turn with systems like VotoSocial would increase the political participation of the population, even the sectors of society that traditionally did not or could not participate in politics.
+VotoSocial started out as an open source project and its source would be available to anyone that contacts the VotoSocial team through the VotoSocial web site, or downloads the source code from the GitHub repository: \url{https://github.com/corp/ActasCounter}. In the future the software development team wishes to enable the platform for real time statistical analysis and to add more graphical reports to help the population have situation awareness about the election process as it is happening.
 
-South East Asian countries are betting on telecommunications infraestructure, if Honduras invested in this kind of technology a higher impact would be accomplished. 
+Additional work could be done by doing a deeper statistical analysis to check for further clues on potential fraud during an election process.
 
-Full statistical analysis
+VotoSocial may be a catalyst to the creation of spin-off for general government auditing. This crowdsourcing system would help the general public to audit and comment in a structured manner the government funded projects, in the local and national level alike. This evaluation systems could incorporate the evaluation techniques presented by \citep{morra2009}, and become an independent, people managed evaluation system, it would be the counterpart of government evaluation systems like the Single System of Evaluation of Social Public Policy (Sistema \'{U}nico de Evaluaci\'{o}n de Pol\'{i}ticas P\'{u}blicas: SUEPPS) \cite{arias2014}.
 
-Real time fraud detection during the digitalisation of records
-
-Make the framework available for other countries
-
-Creation of spin-off for general government auditing, independent like the evaluation system implemented by \cite{arias2014}.
-
-The challenge is to find funding
-
-It is still a challenge to increase the Internet penetration in countries like Honduras, currently at 17.8\% \citep{webpenet}, by achieving higher penetration rates a greater amount of the population could be reached, and this could find critical mass for real changes to occur in local policy making and politics.
-
+As any research and development project the major challenge is to find funding to get the necessary infraestructure and personnel to build and develop and maintain these platforms, these challenges are particularly difficult in developing countries that do not have an stablished research funding mechanism. Ideally personnel for software development could be enlisted the way open source projects do, however unlike developed countries, people, specially engineers, do not have as much free time to dedicate to these kind of activities.
 
 
 \section{Conclusions}
@@ -151,19 +142,13 @@ It is still a challenge to increase the Internet penetration in countries like H
 
 In the 1948 elections there was an electoral scaffolding that far from helping a fair election used a mechanism that guaranteed the victory of the ruling party. These mechanisms had the favor of the government resources, much like what happened in 2013, that even with the technical advances, the elections lacked the confidence of the general public \citep{romero2014}. Considering the population resentment and suspicions with this latest government, social media may gather together people, but crowdsourcing platforms may be needed to provide structure and systematisation with the goal of reaching some positive change. Just the way VotoSocial did.
 
+In the world, higher turnout usually means a greater demand of the public for results \citep{mac2003}, this is not true for Honduras where abstention and comfort are not aligned, since even when there is high turnout people do not consistently demand results from the government \citep{romero2014}. Historically Hondurans have lacked the will to protest, dissent has been small and without proper organisation, continuity and consistency. People just seem to forget. But VotoSocial has opened a window to allow people to participate in the political life of Honduras, and opened the door for further development of crowdsourcing and social media tools as environments for young people to work towards a better country.
 
-In the world, higher turnout usually means a greater demand of the public for results \citep{mac2003}, this is not true for Honduras where abstention and comfort are not aligned, since even when there is high turnout people do not consistently demand results from the government \citep{romero2014}. Historically Hondurans have lacked will to protest, dissent has been small and without proper organisation, continuity and consistency. People just seem to forget. But VotoSocial has opened a window to allow people to participate in the political life of Honduras, and opened the door for further development of crowdsourcing and social media tools as environments for young people to work towards a better country.
+A high investment in information technology infraestructure and in education would creat high penetration of social media \citep{saadia2014} that in turn with systems like VotoSocial would increase the political participation of the population, even the sectors of society that traditionally did not or could not participate in politics. Just like South East Asian countries are betting on telecommunications infraestructure, Honduras should invest in this kind of technology. It is still a challenge to increase the Internet penetration in countries like Honduras, currently at 17.8\% \citep{webpenet}, by achieving higher penetration rates a greater amount of the population could be reached, and this could find critical mass for real changes to occur in local policy making and politics.
 
-VotoSocial like platforms allowed population to audit the government.
+There is an increasing number of people disillusion with traditional forms of political organisation \citep{milan2013}, this is producing civic action to take place in online forums, VotoSocial may be a precursor to this new way to make politics in countries like Honduras. VotoSocial may be a catalyst for forums of political discussion, and for the creation of additional crowdsourcing systems in this direction. The direct effect of the participation of the population would be an increase of the political situation awareness of the general public in special of the younger generations that would start to actively participate in the politics of their country.
 
-VotoSocial may be a catalyst for forums of political discussion.
-
-There is an increasing number of people disillusion with traditional forms of political organisation \citep{milan2013}, this is producing civic action to take place in online forums, VotoSocial may be a precursor to this new way to make politics in countries like Honduras.
-
-\cite{sartori2003} says that apathetic citizens make governments rule without problems, so when people do not actively participate in the politics of their country, the ruling class are allowed to do as they please. This means that it is urgent for nations to become really democratic to get involvement of the most of the population. 
-
-
-
+\cite{sartori2003} says that apathetic citizens make governments rule without problems, so when people do not actively participate in the politics of their country, the ruling class are allowed to do as they please. This means that it is urgent for nations to become really democratic to get involvement of the most of the population. Social media, crowdsourcing may steer nations in this direction.
 
 \bibliographystyle{apalike}
 \bibliography{./ipp}

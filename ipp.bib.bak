@@ -1,6 +1,22 @@
 % This file was created with JabRef 2.7b.
 % Encoding: UTF-8
 
+@INPROCEEDINGS{arias2014,
+  author = {Arias, C.R. and Serrano, J.E. and Garcia, J.},
+  title = {Evaluation of social public policy: Department of social development
+	in Honduras},
+  booktitle = {eDemocracy eGovernment (ICEDEG), 2014 First International Conference
+	on},
+  year = {2014},
+  pages = {125-130},
+  month = {April},
+  doi = {10.1109/ICEDEG.2014.6819969},
+  keywords = {government data processing;Honduras;SUEPPS tool;e-government;electronic
+	government;single system of evaluation of social public policy tool;social
+	development;social policy;social programs;social projects;Data collection;Government;Instruments;Monitoring;Phase
+	measurement;Public policy}
+}
+
 @MISC{bono10k,
   author = {{Bono 10,000}},
   title = {Presidential Program of Health, Education and Nutrition Bono 10,000},

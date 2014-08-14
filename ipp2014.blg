@@ -10,45 +10,45 @@ Warning--entry type for "vidap" isn't style-file defined
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
-You've used 25 entries,
+You've used 26 entries,
             1935 wiz_defined-function locations,
-            601 strings with 7362 characters,
-and the built_in function-call counts, 8261 in all, are:
-= -- 815
-> -- 294
-< -- 22
-+ -- 97
-- -- 94
-* -- 632
-:= -- 1500
-add.period$ -- 76
-call.type$ -- 25
-change.case$ -- 168
-chr.to.int$ -- 24
-cite$ -- 28
-duplicate$ -- 336
-empty$ -- 569
-format.name$ -- 121
-if$ -- 1604
+            608 strings with 7533 characters,
+and the built_in function-call counts, 8602 in all, are:
+= -- 849
+> -- 307
+< -- 24
++ -- 103
+- -- 98
+* -- 660
+:= -- 1560
+add.period$ -- 80
+call.type$ -- 26
+change.case$ -- 174
+chr.to.int$ -- 25
+cite$ -- 29
+duplicate$ -- 350
+empty$ -- 592
+format.name$ -- 128
+if$ -- 1672
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 19
-newline$ -- 128
-num.names$ -- 75
-pop$ -- 138
+missing$ -- 21
+newline$ -- 133
+num.names$ -- 78
+pop$ -- 145
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 179
 quote$ -- 0
-skip$ -- 268
+skip$ -- 277
 stack$ -- 0
-substring$ -- 484
-swap$ -- 42
-text.length$ -- 5
+substring$ -- 498
+swap$ -- 44
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 140
+type$ -- 144
 warning$ -- 3
-while$ -- 65
+while$ -- 67
 width$ -- 0
-write$ -- 314
+write$ -- 327
 (There were 5 warnings)
