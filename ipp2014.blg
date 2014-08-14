@@ -1,54 +1,54 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ipp2014.aux
 The style file: apalike.bst
 Database file #1: ./ipp.bib
 Warning--entry type for "melvid" isn't style-file defined
---line 53 of file ./ipp.bib
+--line 104 of file ./ipp.bib
 Warning--entry type for "vidap" isn't style-file defined
---line 134 of file ./ipp.bib
+--line 185 of file ./ipp.bib
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
-You've used 21 entries,
+You've used 25 entries,
             1935 wiz_defined-function locations,
-            585 strings with 6721 characters,
-and the built_in function-call counts, 6837 in all, are:
-= -- 677
-> -- 239
-< -- 19
-+ -- 78
-- -- 76
-* -- 531
-:= -- 1250
-add.period$ -- 64
-call.type$ -- 21
-change.case$ -- 140
-chr.to.int$ -- 21
-cite$ -- 24
-duplicate$ -- 272
-empty$ -- 469
-format.name$ -- 99
-if$ -- 1318
-int.to.chr$ -- 1
+            601 strings with 7362 characters,
+and the built_in function-call counts, 8261 in all, are:
+= -- 815
+> -- 294
+< -- 22
++ -- 97
+- -- 94
+* -- 632
+:= -- 1500
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 168
+chr.to.int$ -- 24
+cite$ -- 28
+duplicate$ -- 336
+empty$ -- 569
+format.name$ -- 121
+if$ -- 1604
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 15
-newline$ -- 108
-num.names$ -- 63
-pop$ -- 106
+missing$ -- 19
+newline$ -- 128
+num.names$ -- 75
+pop$ -- 138
 preamble$ -- 1
-purify$ -- 143
+purify$ -- 172
 quote$ -- 0
-skip$ -- 219
+skip$ -- 268
 stack$ -- 0
-substring$ -- 408
-swap$ -- 30
-text.length$ -- 4
+substring$ -- 484
+swap$ -- 42
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 118
+type$ -- 140
 warning$ -- 3
-while$ -- 55
+while$ -- 65
 width$ -- 0
-write$ -- 265
+write$ -- 314
 (There were 5 warnings)

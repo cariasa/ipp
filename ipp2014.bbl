@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Arias et~al., 2014]{arias2014}
+Arias, C., Serrano, J., and Garcia, J. (2014).
+\newblock Evaluation of social public policy: Department of social development
+  in honduras.
+\newblock In {\em eDemocracy eGovernment (ICEDEG), 2014 First International
+  Conference on}, pages 125--130.
+
 \bibitem[{Bono 10,000}, 2011]{bono10k}
 {Bono 10,000} (2011).
 \newblock Presidential program of health, education and nutrition bono 10,000.
@@ -61,6 +68,11 @@ Kitschelt, H. (2000).
 \newblock {Linkages between Citizens and Politicians in Democratic Polities}.
 \newblock {\em Comparative Political Studies}, 33(6-7):845--879.
 
+\bibitem[Klimek et~al., 2012]{klimek2012}
+Klimek, P., Yegorov, Y., Hanel, R., and Thurner, S. (2012).
+\newblock Statistical detection of systematic election irregularities.
+\newblock {\em Proceedings of the National Academy of Sciences}.
+
 \bibitem[{La Tribuna}, 2012]{csj2012}
 {La Tribuna} (2012).
 \newblock Dismissed! (in spanish).
@@ -96,6 +108,12 @@ Osborn, T., McClurg, S.~D., and Knoll, B. (2010).
   citizenship in Honduras 1948-2013 (In Spanish), pages 9--72.
 \newblock National Democratic Institute.
 
+\bibitem[Sartori, 2003]{sartori2003}
+Sartori, G. (2003).
+\newblock {\em Constitutional Engineering Compared: a research on the
+  structures, incentives and results (In Spanish)}.
+\newblock Fondo de Cultura Económica.
+
 \bibitem[{Transparency International}, 2014]{transp}
 {Transparency International} (2014).
 \newblock Transparency international corruption rates.
@@ -106,8 +124,13 @@ Osborn, T., McClurg, S.~D., and Knoll, B. (2010).
 \newblock Development goals report.
 \newblock Technical report, United Nations.
 
-\bibitem[{World Bank}, 2014]{wbdata}
-{World Bank} (2014).
+\bibitem[{World Bank}, 2014a]{webpenet}
+{World Bank} (2014a).
+\newblock Internet users (per 100 people).
+\newblock http://data.worldbank.org/indicator/IT.NET.USER.P2.
+
+\bibitem[{World Bank}, 2014b]{wbdata}
+{World Bank} (2014b).
 \newblock World bank honduras data.
 \newblock http://data.worldbank.org/country/honduras.
 

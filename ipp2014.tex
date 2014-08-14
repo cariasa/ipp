@@ -31,7 +31,7 @@
 It is accepted among Hondurans that the government is corrupt, this is supported by the evidence found by Transparency International that rates Honduras with a score of 26, with only 37 other countries considered to be more corrupt than Honduras \citep{transp}. This fact is affecting the Honduran society in many dimensions, one of them is the impact it has on the education and thus the democratic maturity of the general population. With a 14.5\% of the population above 15 years of age that cannot read or write \citep{bchrep}, and with 64.5\% of the population living under the line of poverty \citep{wbdata}, this country's educated people is a minority.
 
 
-However a minority can have a powerful impact in the country, when even a small group can shake the status quo of a government \citep{saadia2014} as it has happened in the recent government elections held in October 2013. During this process a Crowdsourcing System was built called VotoSocial: \url{http://votosocial.org}, where 97\% of the presidential polling records where reviewed by the people participating with the system.
+However a minority can have a powerful impact in the country, when even a small group can shake the status quo of a government \citep{saadia2014} as it has happened in the recent government elections held in October 2013. During this process a crowdsourcing system was built called VotoSocial: \url{http://votosocial.org}, where 97\% of the presidential polling records where reviewed by the people participating with the system.
 
 In this electoral process eight political parties participated for the President Position, one of the candidates being the former President of Congress. This fact and the previous turmoil produced by the events of 2009 where former President Manuel “Mel” Zelaya was deposed, had the country in a state of tension. Even with the political stress, this past elections proved to be representative as more than 60\% of the registered voters participated with their votes. In addition to the high turnout, in this elections the official polling tables records were digitalised and made public by the Supreme Elections Tribunal (TSE) through their elections site SIEDE: \url{http://siede.tse.hn}.
 
@@ -39,9 +39,9 @@ During the process there was a perception that the elections were fraudulent, sp
 
 Considering all these facts, some people started to organise procedures to check the official records, and to find a way to report this to the general public. Some used Facebook as their propagation method, and Google Docs as a way to register the potential anomalies found in the counting process of the official polling records. Some other people, among the authors of this paper, decided to take this a step further, and developed the \textit{VotoSocial} platform, to allow people to verify the government counting of the official polling records.
 
-Democracy is not an easy feat, especially in a developing country as Honduras, but Crowdsourcing systems like \textit{VotoSocial}, can help a minority of a population have a deep impact in the society, allowing some of the more educated people help discover anomalies in the government proceedings, making this information public and explaining how this affects the general public. Furthermore, this initiative allowed users that would just complain about the government in Facebook, to use their energy in a positive constructive way, and to involve them in the political life of their country, something that they would not have been able to do without \textit{VotoSocial}.
+Democracy is not an easy feat, especially in a developing country as Honduras, but crowdsourcing systems like \textit{VotoSocial}, can help a minority of a population have a deep impact in the society, allowing some of the more educated people help discover anomalies in the government proceedings, making this information public and explaining how this affects the general public. Furthermore, this initiative allowed users that would just complain about the government in Facebook, to use their energy in a positive constructive way, and to involve them in the political life of their country, something that they would not have been able to do without \textit{VotoSocial}.
 
-These kinds of systems will help society get a better participation in the governance of a country, because they will make people be heard by their government and will increase general public awareness. In addition to these benefits, \textit{VotoSocial} provides a path to a more transparent electoral process, so much that it has serve as an inspiration to other Crowdsourcing systems like \url{http://contemosnosotros.org/} in the neighbour country of El Salvador. 
+These kinds of systems will help society get a better participation in the governance of a country, because they will make people be heard by their government and will increase general public awareness. In addition to these benefits, \textit{VotoSocial} provides a path to a more transparent electoral process, so much that it has serve as an inspiration to other crowdsourcing systems like \url{http://contemosnosotros.org/} in the neighbour country of El Salvador. 
 
 Following this introduction a brief background description of crowdsourcing and the political history of Honduras is presented, after this a panoramic view of the elections in 2013 is shown, followed by a statistical analysis that the \textit{VotoSocial} platform allowed to do. Finally future and potential work is described and conclusions are given.
 
@@ -91,9 +91,13 @@ Another characteristic of the 2013 elections was the participation of nine polit
 
 \subsection{VotoSocial}
 
-In the midst of the official vote counting by the Supreme Electoral Tribunal (TSE), VotoSocial is born. VotoSocial team grabbed all the digitalised polling records. The process of retrieving these records was done in batch, downloading the records as these were being made available by the TSE. VotoSocial then allowed the system's users to see the scanned record, and to register the values, digitalising this way the results of each of 15,637 polling tables, this represents almost 97\% of all the polling stations in the country, the remaining 3\% was not verified as this records were never made public by the TSE. Users were also in charge of the validation of this process, so every time a transcription user digitised a record, three different users had to validate that this transcription was correct. There were 6,232 unique visits to the site, 1,673 people registered in VotoSocial, 710 users were actively transcribing records, and 879 people participated reviewing the transcriptions. The whole process took six days, however it was done altogether in less than 48 hours. In the first day programming and testing was done and 1\% of the records were processed, during the following two days 88\% of the records were processed, hours after these were available for the VotoSocial users. The rest of the records were processed during few hours in the last three days.
+In the midst of the official vote counting by the Supreme Electoral Tribunal (TSE), VotoSocial is born. As it was discussed earlier, there was an atmosphere of distrust towards the vote counting, this contributed to the creation of VotoSocial. VotoSocial is a crowdsourcing platform that allows users to verify scanned digital polling table records, and to transcript the values into a computational system. 
 
-According to \cite{doan2011} VotoSocial architecture is explicit and assigns the users with task execution, all effort is done online, and unlike other systems that send tickets when a user finds a mistranscription \citep{haaf2013}, the correction is done online. Still, users may send reports when they found suspicious records like the one that can be seen in Figure \ref{fig:strange}. In an effort to find correct results a method of triple verification was used, this allowed for a user controlled validation of the data. For a record transcription to be accepted three different persons had to review and check that the record has been correctly transcribed. The motivation behind triple validation was to have a system like the double keying systems \citep{haaf2013}, but it was decided that triple validation would be more user friendly and would provide a better user experience, without loosing accuracy. Users were recruited using social networks as Facebook and Google+, basically taking advantage of the word of mouth (By liking the page on their Facebook or Google+). Data was integrated by simple addition, so integration was not actually a challenge of the platform. Opposed to other crowdsourcing systems, VotoSocial did not form a community as such, since there was not explicit communication between the users inside the platform. Decisions were always made agilely by the system operators taking user comments into account, much the way a software is developed nowadays. The operations that users were allowed to do were as digitisers and reviewing. Digitising consisted in transcribing the official record, and reviewing consisted in the revision of this transcription. Another difference between VotoSocial and other crowdsourcing systems and to cyberactivism sites is that VotoSocial was not anonymous, this was decided to encourage accountability of the users and their actions inside the system.
+VotoSocial team grabbed all the digitalised polling records. The process of retrieving these records was done in batch, downloading the records as these were being made available by the TSE. VotoSocial then allowed the system's users to see the scanned record, and to register the values, digitalising this way the results of each of 15,637 polling tables, this represents almost 97\% of all the polling stations in the country, the remaining 3\% was not verified as this records were never made public by the TSE. Users were also in charge of the validation of this process, so every time a transcription user digitised a record, three different users had to validate that this transcription was correct. There were 6,232 unique visits to the site, 1,673 people registered in VotoSocial, 710 users were actively transcribing records, and 879 people participated reviewing the transcriptions. The whole process took six days, however it was done altogether in less than 48 hours. In the first day programming and testing was done and 1\% of the records were processed, during the following two days 88\% of the records were processed, hours after these were available for the VotoSocial users. The rest of the records were processed during few hours in the last three days.
+
+According to \cite{doan2011} VotoSocial architecture is explicit and assigns the users with task execution, all effort is done online, and unlike other systems that send tickets when a user finds a mistranscription \citep{haaf2013}, the correction is done online and almost in real time. Still, users may send reports when they found suspicious records like the one that can be seen in Figure \ref{fig:strange}. In an effort to find correct results a method of triple verification was used, this allowed for a user controlled validation of the data. For a record transcription to be accepted three different persons had to review and check that the record has been correctly transcribed. The motivation behind triple validation was to have a system like the double keying systems \citep{haaf2013}, but it was decided that triple validation would be more user friendly and would provide a better user experience, without loosing accuracy. Users were recruited using social networks as Facebook and Google+, basically taking advantage of the word of mouth (By liking the page on their Facebook or Google+). Data was integrated by simple addition, so integration was not actually a challenge of the platform. Opposed to other crowdsourcing systems, VotoSocial did not form a community as such, since there was not explicit communication between the users inside the platform. Decisions were always made agilely by the system operators taking user comments into account, much the way a software is developed nowadays. The operations that users were allowed to do were as digitisers and reviewers. Digitising consisted in transcribing the official record, and reviewing consisted in the revision of this transcription. Another difference between VotoSocial and other crowdsourcing systems and to cyberactivism sites is that VotoSocial was not anonymous, this was decided to encourage accountability of the users and their actions inside the system. 
+
+Some of the shortfalls of other crowdsourcing systems, like the one presented by \cite{gao2011}, is that it is difficult to coordinate the collaboration between all the users of the system, sometimes the provided information by the users is not verified or inaccurate, and another issue is the security of the people involved. None of this shortfalls were encountered by VotoSocial, coordination and verification was automatic by the triple verification scheme, and the security of the users was not compromised as this system was never seen as a threat to the government or its institutions.
 
 \begin{figure}[h!]
     \centering
@@ -102,17 +106,44 @@ According to \cite{doan2011} VotoSocial architecture is explicit and assigns the
     \label{fig:strange}
 \end{figure}
 
-
-
-
 To be able to compare with final official results, in May 21st the authors requested oficial detailed data to the Public Information Access Institute \url{http://www.iaip.gob.hn/} however after three months there was no response on their behalf. Despite the lack of response, VotoSocial did not find significant discrepancies between the overall official results of the TSE web site and its own results, thus showing that at least in the digitalisation process in the TSE there were no ``foul play''. Notwithstanding this, further analysis of the data showed a correlation between the percentage of voter turnout in the polling tables and the percentage of the voters of the winning candidate, where there should be none, further analysis on this is discussed in the next section.
 
 
 
 
 \section{Further Analysis}
-this suggests that during the elections the winning party had an active encouragement to get more sympathising people to the polls.
+Having independent count data allowed additional quantitative statistical analysis to further the qualitative findings of \cite{gonza2014}.
+
+An initial statistical analysis using the methods presented by \cite{klimek2012} showed that there is evidence of what they called \textit{incremental fraud}, but there is no evidence of \textit{extreme fraud}. Figure \ref{fig:fingerprint}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/fingerprint}
+    \caption{Honduras 2013 Elections Fingerprint}
+    \label{fig:fingerprint}
+\end{figure}
+
 \section{Future and Potential Work}
+
+\cite{doan2011} presents three major directions for crowdsourcing systems: more generic platforms, more applications and structure and more users and contributions. This proposal could be met by VotoSocial future work by: making the platform readily available for other countries election process, creating of spin-off systems for government auditing, and by increasing the internet penetration in developing countries to reach a higher number of people from the general public.
+
+A high investment in information technology infraestructure and in education would creat high penetration of social media \citep{saadia2014} that in turn with systems like VotoSocial would increase the political participation of the population, even the sectors of society that traditionally did not or could not participate in politics.
+
+South East Asian countries are betting on telecommunications infraestructure, if Honduras invested in this kind of technology a higher impact would be accomplished. 
+
+Full statistical analysis
+
+Real time fraud detection during the digitalisation of records
+
+Make the framework available for other countries
+
+Creation of spin-off for general government auditing, independent like the evaluation system implemented by \cite{arias2014}.
+
+The challenge is to find funding
+
+It is still a challenge to increase the Internet penetration in countries like Honduras, currently at 17.8\% \citep{webpenet}, by achieving higher penetration rates a greater amount of the population could be reached, and this could find critical mass for real changes to occur in local policy making and politics.
+
+
 
 \section{Conclusions}
 
@@ -122,8 +153,15 @@ In the 1948 elections there was an electoral scaffolding that far from helping a
 
 In the world, higher turnout usually means a greater demand of the public for results \citep{mac2003}, this is not true for Honduras where abstention and comfort are not aligned, since even when there is high turnout people do not consistently demand results from the government \citep{romero2014}. Historically Hondurans have lacked will to protest, dissent has been small and without proper organisation, continuity and consistency. People just seem to forget. But VotoSocial has opened a window to allow people to participate in the political life of Honduras, and opened the door for further development of crowdsourcing and social media tools as environments for young people to work towards a better country.
 
+VotoSocial like platforms allowed population to audit the government.
 
-\newpage
+VotoSocial may be a catalyst for forums of political discussion.
+
+There is an increasing number of people disillusion with traditional forms of political organisation \citep{milan2013}, this is producing civic action to take place in online forums, VotoSocial may be a precursor to this new way to make politics in countries like Honduras.
+
+\cite{sartori2003} says that apathetic citizens make governments rule without problems, so when people do not actively participate in the politics of their country, the ruling class are allowed to do as they please. This means that it is urgent for nations to become really democratic to get involvement of the most of the population. 
+
+
 
 
 \bibliographystyle{apalike}

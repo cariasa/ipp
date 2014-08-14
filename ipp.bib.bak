@@ -1,6 +1,16 @@
 % This file was created with JabRef 2.7b.
 % Encoding: UTF-8
 
+@MISC{bono10k,
+  author = {{Bono 10,000}},
+  title = {Presidential Program of Health, Education and Nutrition Bono 10,000},
+  howpublished = {La Gaceta Oficial Journal of Honduras Government},
+  month = {April},
+  year = {2011},
+  owner = {arias},
+  timestamp = {2014.08.05}
+}
+
 @BOOK{card91,
   title = {Ender's Game},
   publisher = {Tor},
@@ -38,6 +48,41 @@
   owner = {arias},
   publisher = {ACM},
   url = {http://doi.acm.org/10.1145/1924421.1924442}
+}
+
+@ARTICLE{endsley95,
+  author = {Endsley, Mica R.},
+  title = {Toward a Theory of Situation Awareness in Dynamic Systems},
+  journal = {Human Factors: The Journal of the Human Factors and Ergonomics Society},
+  year = {1995},
+  volume = {37},
+  pages = {32-64(33)},
+  month = {March},
+  abstract = {This paper presents a theoretical model of situation awareness based
+	on its role in dynamic human decision making in a variety of domains.
+	Situation awareness is presented as a predominant concern in system
+	operation, based on a descriptive view of decision making. The relationship
+	between situation awareness and numerous individual and environmental
+	factors is explored. Among these factors, attention and working memory
+	are presented as critical factors limiting operators from acquiring
+	and interpreting information from the environment to form situation
+	awareness, and mental models and goal-directed behavior are hypothesized
+	as important mechanisms for overcoming these limits. The impact of
+	design features, workload, stress, system complexity, and automation
+	on operator situation awareness is addressed, and a taxonomy of errors
+	in situation awareness is introduced, based on the model presented.
+	The model is used to generate design implications for enhancing operator
+	situation awareness and future directions for situation awareness
+	research.},
+  added-at = {2009-02-26T15:39:11.000+0100},
+  biburl = {http://www.bibsonomy.org/bibtex/26ee7b0841518658bb582308cf8d96540/cschie},
+  description = {Toward a Theory of Situation Awareness in Dynamic Systems},
+  doi = {doi:10.1518/001872095779049543},
+  interhash = {f9e1d1ecb6c7eb71867f8d1370ea7c71},
+  intrahash = {6ee7b0841518658bb582308cf8d96540},
+  keywords = {awareness dynamic situation systems theory},
+  timestamp = {2009-02-26T15:39:11.000+0100},
+  url = {http://www.ingentaconnect.com/content/hfes/hf/1995/00000037/00000001/art00004}
 }
 
 @ELECTRONIC{melvid,
@@ -375,15 +420,6 @@
   doi = {http://doi.ieeecomputersociety.org/10.1109/MIS.2012.6},
   issn = {1541-1672},
   publisher = {IEEE Computer Society}
-}
-
-@MISC{bono10k,
-  title = {Presidential Program of Health, Education and Nutrition Bono 10,000},
-  howpublished = {La Gaceta Oficial Journal of Honduras Government},
-  month = {April},
-  year = {2011},
-  owner = {arias},
-  timestamp = {2014.08.05}
 }
 
 @comment{jabref-meta: selector_publisher:}
