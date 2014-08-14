@@ -112,7 +112,8 @@ To be able to compare with final official results, in May 21st the authors reque
 
 
 \section{Further Analysis}
-Having independent count data allowed additional quantitative statistical analysis to further the qualitative findings of \cite{gonza2014}.
+
+Although the official data was not released through the official channels, thanks to the VotoSocial platform an independent count of the votes using the official polling records. This count allowed to do additional quantitative statistical analysis to further the qualitative findings of \cite{gonza2014}.
 
 An initial statistical analysis using the methods presented by \cite{klimek2012} showed that there is evidence of what they called \textit{incremental fraud}, but there is no evidence of \textit{extreme fraud}. Figure \ref{fig:fingerprint}
 
@@ -125,13 +126,25 @@ An initial statistical analysis using the methods presented by \cite{klimek2012}
 
 \section{Future and Potential Work}
 
+\cite{doan2011} presents three major directions for crowdsourcing systems: more generic platforms, more applications and structure and more users and contributions. This proposal could be met by VotoSocial future work by: making the platform readily available for other countries election process, creating of spin-off systems for government auditing, and by increasing the internet penetration in developing countries to reach a higher number of people from the general public.
+
+A high investment in information technology infraestructure and in education would creat high penetration of social media \citep{saadia2014} that in turn with systems like VotoSocial would increase the political participation of the population, even the sectors of society that traditionally did not or could not participate in politics.
+
+South East Asian countries are betting on telecommunications infraestructure, if Honduras invested in this kind of technology a higher impact would be accomplished. 
+
 Full statistical analysis
 
 Real time fraud detection during the digitalisation of records
 
 Make the framework available for other countries
 
-C
+Creation of spin-off for general government auditing, independent like the evaluation system implemented by \cite{arias2014}.
+
+The challenge is to find funding
+
+It is still a challenge to increase the Internet penetration in countries like Honduras, currently at 17.8\% \citep{webpenet}, by achieving higher penetration rates a greater amount of the population could be reached, and this could find critical mass for real changes to occur in local policy making and politics.
+
+
 
 \section{Conclusions}
 
