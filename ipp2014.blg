@@ -4,15 +4,15 @@ The top-level auxiliary file: ipp2014.aux
 The style file: apalike.bst
 Database file #1: ./ipp.bib
 Warning--entry type for "melvid" isn't style-file defined
---line 104 of file ./ipp.bib
+--line 94 of file ./ipp.bib
 Warning--entry type for "vidap" isn't style-file defined
---line 185 of file ./ipp.bib
+--line 175 of file ./ipp.bib
 Warning--can't use both author and editor fields in gonza2014
 Warning--can't use both author and editor fields in bchrep
 Warning--can't use both author and editor fields in romero2014
 You've used 26 entries,
             1935 wiz_defined-function locations,
-            608 strings with 7533 characters,
+            608 strings with 7518 characters,
 and the built_in function-call counts, 8602 in all, are:
 = -- 849
 > -- 307
