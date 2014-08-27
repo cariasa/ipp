@@ -117,33 +117,40 @@ To be able to compare with final official results, in May 21st the authors reque
 
 Although the official data was not released through the official channels, thanks to the VotoSocial platform an independent count of the votes using the official polling records was achieved. This count allowed to do additional quantitative statistical analysis to further the qualitative findings of \cite{gonza2014}.
 
-An initial statistical analysis using the methods proposed by \cite{klimek2012} showed that there is evidence of what they called incremental fraud, but there is no evidence of extreme fraud. \cite{klimek2012} consider incremental fraud to be when voting boxes have valid votes and ballots from the winning party, combining real and legal votes with votes filled on purpose to help the winning party, or by taking away votes from the other parties. On the other hand there is extreme fraud where some voting stations or districts show a 100\% turnout with 100\% count for the winning party. In Figure \ref{fig:fingerprint} can be seen a smearing to the upper right corner, an election result fingerprint associated with incremental fraud. The ideal fingerprint would have a concentration in the middle of the plane, without a correlation that leads the smearing in any direction. It is worthy to note that when extreme fraud is detected, there are clear clusters of points near the upper right corner, a behaviour that is not seen in the case of Honduras 2013 government elections.
+An initial statistical analysis using the methods proposed by \cite{klimek2012} showed that there is evidence of what they called incremental fraud, but there is no evidence of extreme fraud. \cite{klimek2012} consider incremental fraud to be when voting boxes have valid votes and additional ballots from the winning party, combining real and legal votes with votes filled on purpose to help the winning party, or by taking away votes from the other parties. On the other hand there is extreme fraud where some voting stations or districts show a 100\% turnout with 100\% count for the winning party. Figures shown in \ref{fig:test} depict the correlation between voter turnout and votes of the winning party. Figure \ref{fig:normal} shows how normal behaviour should look like with no smearing to either side. Figures \ref{fig:fingerprint} and \ref{fig:extreme} show a correlation with smearing to the right. For instance in Figure \ref{fig:fingerprint} can be seen a smearing to the upper right corner, an election result fingerprint associated with incremental fraud. On the other hand Figure \ref{fig:extreme} shows extreme fraud with a concentration of points in the upper right corner, showing that some voting tables had 100\% turnout and 100\% votes for the winning party. It is worthy to note that extreme fraud is not present in the data collected by VotoSocial, however the smearing clearly suggests incremental fraud took place during the Honduras 2013 government elections.
 
-\begin{figure}[h!]
-   \centering
-   \includegraphics[width=4in]{images/fingerprint}
-   \caption{Honduras 2013 Elections Fingerprint}
-   \label{fig:fingerprint}
-\end{figure}
-
-
-% \begin{figure}
-% \centering
-% \begin{subfigure}{.5\textwidth}
-%   \centering
-%   \includegraphics[width=.4\linewidth]{images/fingerprint}
-%   \caption{A subfigure}
-%   \label{fig:fingerprint}
-% \end{subfigure}%
-% \begin{subfigure}{.5\textwidth}
-%   \centering
-%   \includegraphics[width=.4\linewidth]{images/fingerprint}
-%   \caption{A subfigure}
-%   \label{fig:sub2}
-% \end{subfigure}
-% \caption{A figure with two subfigures}
-% \label{fig:test}
+% \begin{figure}[h!]
+%    \centering
+%    \includegraphics[width=4in]{images/fingerprint}
+%    \caption{Honduras 2013 Elections Fingerprint}
+%    \label{fig:fingerprint}
 % \end{figure}
+
+
+\begin{figure}
+\centering
+\begin{subfigure}{.3\textwidth}
+  \centering
+  \includegraphics[width=2in]{images/normal}
+  \caption{Normal}
+  \label{fig:normal}
+\end{subfigure}%
+\begin{subfigure}{.3\textwidth}
+  \centering
+  \includegraphics[width=2in]{images/fingerprint}
+  \caption{Honduras Elections Fingerprint}
+  \label{fig:fingerprint}
+\end{subfigure}
+\begin{subfigure}{.3\textwidth}
+  \centering
+  \includegraphics[width=2in]{images/extreme}
+  \caption{Extreme Fraud Example}
+  \label{fig:extreme}
+\end{subfigure}
+
+\caption{Statistical Correlation Between Elections Turnout and Winner Votes}
+\label{fig:test}
+\end{figure}
 
 
 \section{Future and Potential Work}
