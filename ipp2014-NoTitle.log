@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=lat
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ipp2014.tex
-(./ipp2014.tex
+**ipp2014-NoTitle.tex
+(./ipp2014-NoTitle.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ga
 lician, catalan, spanish, loaded.
@@ -441,8 +441,9 @@ Package caption Info: hyperref package is loaded.
 Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
 \c@subfigure=\count105
 \c@subtable=\count106
-) (./ipp2014.aux)
-\openout1 = `ipp2014.aux'.
+)
+(./ipp2014-NoTitle.aux)
+\openout1 = `ipp2014-NoTitle.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -507,18 +508,12 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(./ipp2014.out) (./ipp2014.out)
+(./ipp2014-NoTitle.out) (./ipp2014-NoTitle.out)
 \@outlinefile=\write3
-\openout3 = `ipp2014.out'.
+\openout3 = `ipp2014-NoTitle.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -535,13 +530,13 @@ File: images/fingerprint.eps Graphic file (type eps)
  <images/fingerprint.eps>
 File: images/extreme.eps Graphic file (type eps)
 
-<images/extreme.eps> [8] [9] (./ipp2014.bbl
+<images/extreme.eps> [8] (./ipp2014-NoTitle.bbl [9]
 Underfull \hbox (badness 10000) in paragraph at lines 21--24
 []\OT1/cmr/m/n/10 Frente Morazanista (2008).  Mel ad-mits elec-toral fraud in H
 on-duras (In Span-ish).
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 57--60
 []\OT1/cmr/m/n/10 Kirkconnell, J. (2013).  Cor-rup-tion in elec-tions 2013, cre
 -den-tials sell-ing (in span-ish).
@@ -553,24 +548,24 @@ Underfull \hbox (badness 7221) in paragraph at lines 72--76
 t/10 La Tri-buna\OT1/cmr/m/n/10 , 11 De-cem-ber 2012. Avail-able:
  []
 
-[11])
+[10])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
- [12]
+ [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
- (./ipp2014.aux)
+ (./ipp2014-NoTitle.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 185.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
-Package rerunfilecheck Info: File `ipp2014.out' has not changed.
+Package rerunfilecheck Info: File `ipp2014-NoTitle.out' has not changed.
 (rerunfilecheck)             Checksum: F99DD5793464932FBC87E563F43AB016;530.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 6634 strings out of 494998
- 99282 string characters out of 3180116
- 193155 words of memory out of 3000000
- 9782 multiletter control sequences out of 15000+200000
- 8708 words of font info for 31 fonts, out of 3000000 for 9000
+ 6613 strings out of 494998
+ 99183 string characters out of 3180116
+ 192155 words of memory out of 3000000
+ 9769 multiletter control sequences out of 15000+200000
+ 5971 words of font info for 22 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 36i,6n,38p,1978b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,38p,1986b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ipp2014.dvi (12 pages, 83956 bytes).
+Output written on ipp2014-NoTitle.dvi (11 pages, 82728 bytes).
