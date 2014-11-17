@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.11.5)  7 NOV 2014 16:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.11.5)  17 NOV 2014 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -534,27 +534,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [2] [3] [4] [5] [6]
 File: images/vs-valid-strange.eps Graphic file (type eps)
 
-<images/vs-valid-strange.eps> [7]
+<images/vs-valid-strange.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
 File: images/normal.eps Graphic file (type eps)
  <images/normal.eps>
-File: images/fingerprint.eps Graphic file (type eps)
- <images/fingerprint.eps>
 File: images/extreme.eps Graphic file (type eps)
+ <images/extreme.eps>
+File: images/fingerprint.eps Graphic file (type eps)
+ <images/fingerprint.eps> [8]
+[9]
+Overfull \hbox (16.85037pt too wide) in paragraph at lines 182--183
+[]\OT1/cmr/m/n/10 The amount of peo-ple dis-ap-pointed with the tra-di-tional f
+orms of po-lit-i-cal or-gan-i-sa-tion is in-creas-ing ([],
+ []
 
-<images/extreme.eps> [8] [9] (./ipp2014.bbl
+(./ipp2014.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 21--24
 []\OT1/cmr/m/n/10 Frente Morazanista (2008).  Mel ad-mits elec-toral fraud in H
 on-duras (In Span-ish).
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
 []\OT1/cmr/m/n/10 Kirkconnell, J. (2013).  Cor-rup-tion in elec-tions 2013, cre
 -den-tials sell-ing (in span-ish).
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 72--76
+Underfull \hbox (badness 7221) in paragraph at lines 77--81
 []\OT1/cmr/m/n/10 La Tri-buna (2012).  Dis-missed! (in span-ish).  \OT1/cmr/m/i
 t/10 La Tri-buna\OT1/cmr/m/n/10 , 11 De-cem-ber 2012. Avail-able:
  []
@@ -571,12 +581,12 @@ Package rerunfilecheck Info: File `ipp2014.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 6770 strings out of 494967
- 101674 string characters out of 6179585
- 197396 words of memory out of 5000000
- 9942 multiletter control sequences out of 15000+600000
+ 6773 strings out of 494967
+ 101746 string characters out of 6179585
+ 196396 words of memory out of 5000000
+ 9945 multiletter control sequences out of 15000+600000
  8708 words of font info for 31 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 36i,6n,38p,1978b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,38p,2551b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ipp2014.dvi (12 pages, 83964 bytes).
+Output written on ipp2014.dvi (12 pages, 86996 bytes).
