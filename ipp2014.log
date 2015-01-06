@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.11.5)  20 NOV 2014 16:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.11.5)  24 NOV 2014 13:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,7 +447,18 @@ Package caption Info: hyperref package is loaded.
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 \c@subfigure=\count106
 \c@subtable=\count107
-) (./ipp2014.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)) (./ipp2014.aux)
 \openout1 = `ipp2014.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -579,12 +590,12 @@ Package rerunfilecheck Info: File `ipp2014.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  ) 
 Here is how much of TeX's memory you used:
- 6778 strings out of 494967
- 101814 string characters out of 6179585
+ 6959 strings out of 494967
+ 104832 string characters out of 6179585
  196396 words of memory out of 5000000
- 9948 multiletter control sequences out of 15000+600000
+ 10122 multiletter control sequences out of 15000+600000
  8708 words of font info for 31 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 36i,6n,38p,1915b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,7n,38p,1933b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ipp2014.dvi (13 pages, 93148 bytes).
+Output written on ipp2014.dvi (13 pages, 96988 bytes).
