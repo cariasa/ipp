@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ipp2014-revised.aux
+The style file: apalike.bst
+Database file #1: ./ipp.bib
+Warning--entry type for "melvid" isn't style-file defined
+--line 83 of file ./ipp.bib
+Warning--entry type for "vidap" isn't style-file defined
+--line 179 of file ./ipp.bib
+Warning--can't use both author and editor fields in gonza2014
+Warning--can't use both author and editor fields in bchrep
+Warning--can't use both author and editor fields in romero2014
+You've used 27 entries,
+            1935 wiz_defined-function locations,
+            612 strings with 7686 characters,
+and the built_in function-call counts, 8847 in all, are:
+= -- 875
+> -- 314
+< -- 25
++ -- 105
+- -- 100
+* -- 675
+:= -- 1609
+add.period$ -- 83
+call.type$ -- 27
+change.case$ -- 180
+chr.to.int$ -- 26
+cite$ -- 30
+duplicate$ -- 360
+empty$ -- 607
+format.name$ -- 131
+if$ -- 1717
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 21
+newline$ -- 138
+num.names$ -- 81
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 185
+quote$ -- 0
+skip$ -- 286
+stack$ -- 0
+substring$ -- 510
+swap$ -- 44
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 150
+warning$ -- 3
+while$ -- 69
+width$ -- 0
+write$ -- 339
+(There were 5 warnings)
